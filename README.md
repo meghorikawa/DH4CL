@@ -22,7 +22,7 @@ in Japanese were also identified, to encourage
 further research and improvement in
 this area.
 
-## Conclusion
+### Summarization of findings
 
 While ML Ask overall is able to identify affective
 oriented expressions using its lexicon based
